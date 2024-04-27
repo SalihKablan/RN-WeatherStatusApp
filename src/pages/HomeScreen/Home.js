@@ -118,9 +118,6 @@ const Home = ({ navigation }) => {
         return <Text>{error}</Text>;
     }
 
-  
-
-
 
     return (
         <LinearGradient
