@@ -1,6 +1,7 @@
 import Router from './src/Router.js';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
+//fs
 
 export default function App() {
   return (
